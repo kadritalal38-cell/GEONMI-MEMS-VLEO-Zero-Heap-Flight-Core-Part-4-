@@ -1,4 +1,4 @@
-# geonmi-mems-zero-heap-4
+# GEONMI-MEMS Zero-Heap VLEO Flight Engine
 
 
 ![License](https://img.shields.io/badge/License-Proprietary-red.svg)
