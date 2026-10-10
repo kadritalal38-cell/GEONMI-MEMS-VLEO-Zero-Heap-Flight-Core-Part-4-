@@ -68,5 +68,5 @@ The architecture is decoupled into two primary subsystems (GEONMI Core & VLEO Co
 For licensing agreements, technical specifications, commercial proposals, or to request access to the private repository under an NDA, please contact:
 
 Architect & Lead Developer: Mohammed Talal Kadri
-Primary Business Email: kadritalal38@gmail.com
+Primary Business Email: kadritalal84@gmail.com
 Inquiry Topic: Commercial Licensing / VLEO Engine NDA AccessMEMS-VLEO-Zero-Heap-Flight-Core-Part-4-
